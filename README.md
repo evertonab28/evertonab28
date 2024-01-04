@@ -4,6 +4,8 @@
 
 #### Hi, welcome to my GitHub repo ✌️
 
+HTML | CSS | JAVASCRYPT | JAVA
+
 - 💻I'm currently in a career transition, studying JavaScript and React Native.
 
 <div align="center">
