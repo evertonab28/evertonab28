@@ -16,7 +16,7 @@
 </div>
 
 ## 🚀 About
-- 💻I'm currently in a career transition, studying HTML, CSS, JavaScript, React, Node, Next and React Native.
+- 💻I'm currently in a career transition, studying HTML, CSS, JavaScript, Next.js and React Native.
 
 
 ## 🛠 Skills
