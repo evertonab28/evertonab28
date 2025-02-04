@@ -9,7 +9,7 @@
 <br>
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-evertonantunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-antunes-bezerra-80279961/)](https://www.linkedin.com/in/everton-antunes-bezerra-80279961/)
+[![Linkedin Badge](https://img.shields.io/badge/-evertonantunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evertonab/)](https://www.linkedin.com/in/everton-antunes-bezerra-80279961/)
 [![Gmail Badge](https://img.shields.io/badge/-evertonab.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evertonab.dev@gmail.com)](mailto:evertonab.dev@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/evertonab)
 
